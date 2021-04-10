@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there 👋 Im Chris Allum! I'm a current sophomore student at Olin College of Engineering studying Engineering with a concentration in robotics. I'm interested in all things robotics, green tech, and entrepreneurship. I am also an avid fencer and film lover.
 
-<!--
 **ctallum/ctallum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
